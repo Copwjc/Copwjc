@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Copwjc
--  I’m interested in python
--  I’m currently learning python
--  I’m looking to collaborate on python
+- 👋 Hi, I’m @Copwjc.
+-  Stay calm. stay cool.
 -  How to reach me copwjc@outlook.com
 
 <!---
